@@ -1,6 +1,5 @@
 ---
 title: Pediatric Pulmonology Assistant
-emoji: 🫁
 colorFrom: blue
 colorTo: green
 sdk: gradio
@@ -10,15 +9,15 @@ pinned: false
 license: mit
 ---
 
-# 🫁 Pediatric Pulmonology Assistant
+# Pediatric Pulmonology Assistant
 
 An AI-powered educational tool to help understand childhood respiratory conditions.
 
-## 🎯 Purpose
+## Purpose
 
-This chatbot assists parents, caregivers, and healthcare students in understanding various pediatric pulmonology conditions. It provides educational information about symptoms, red flags, and general advice for respiratory conditions in children.
+This chatbot assists parents and caregivers in understanding various pediatric pulmonology conditions. It provides educational information about symptoms, red flags, and general advice for respiratory conditions in children.
 
-## 🩺 Conditions Covered
+## Conditions Covered
 
 ### Common Conditions
 - **Asthma** - Chronic airway inflammation
@@ -38,7 +37,7 @@ This chatbot assists parents, caregivers, and healthcare students in understandi
 - **Esophageal Atresia**
 - **Asbestosis** (rare in children)
 
-## 🚀 Features
+## Features
 
 - **Symptom Analysis**: Describes symptoms based on user input
 - **Red Flags**: Identifies warning signs requiring urgent care
@@ -46,7 +45,7 @@ This chatbot assists parents, caregivers, and healthcare students in understandi
 - **General Advice**: Offers basic guidance and next steps
 - **User-Friendly Interface**: Clean, medical-themed design
 
-## 💡 How to Use
+## How to Use
 
 1. **Describe Symptoms**: Enter your child's symptoms in natural language
 2. **Get Information**: Receive educational content about possible conditions
@@ -59,7 +58,7 @@ This chatbot assists parents, caregivers, and healthcare students in understandi
 - "Child has persistent cough for 6 weeks"
 - "Toddler makes high-pitched sound when breathing"
 
-## ⚠️ Important Medical Disclaimer
+## Important Medical Disclaimer
 
 **This tool is for educational purposes only and is NOT a substitute for professional medical advice.**
 
@@ -68,7 +67,7 @@ This chatbot assists parents, caregivers, and healthcare students in understandi
 - Call emergency services for breathing emergencies
 - Do not delay medical care based on this tool's suggestions
 
-## 🛠️ Technical Details
+## Technical Details
 
 ### Built With
 - **Gradio** - Web interface framework
@@ -81,14 +80,12 @@ This chatbot assists parents, caregivers, and healthcare students in understandi
 - **Rule-based Classifier**: Pattern matching for symptom recognition
 - **Confidence Scoring**: Reliability assessment for responses
 
-## 🏥 Target Audience
+## Target Audience
 
 - **Parents & Caregivers**: Understanding children's respiratory symptoms
-- **Medical Students**: Learning pediatric pulmonology basics  
-- **Healthcare Trainees**: Quick reference for conditions
-- **Educators**: Teaching respiratory health concepts
+- **Medical Students**: Learning pediatric pulmonology basics
 
-## 📊 Accuracy & Limitations
+## Accuracy & Limitations
 
 ### Strengths
 - Comprehensive condition coverage
@@ -102,23 +99,7 @@ This chatbot assists parents, caregivers, and healthcare students in understandi
 - Limited to covered conditions
 - No personalized medical advice
 
-## 🔄 Updates & Improvements
-
-This tool is continuously improved based on:
-- Medical literature updates
-- User feedback
-- Clinical practice guidelines
-- Pediatric pulmonology advances
-
-## 🤝 Contributing
-
-Suggestions for improvements are welcome! Please consider:
-- Additional conditions to cover
-- Enhanced accuracy in classification
-- Better user experience features
-- Updated medical guidelines
-
-## 📞 Emergency Resources
+## Emergency Resources
 
 **Always call emergency services immediately if a child has:**
 - Severe difficulty breathing
@@ -126,12 +107,10 @@ Suggestions for improvements are welcome! Please consider:
 - Loss of consciousness
 - Cannot speak due to breathing difficulty
 
-## 📚 Medical References
-
-Information based on current pediatric pulmonology guidelines and evidence-based practice recommendations.
-
----
 
 **Developed by Team 3 - Pediatric Pulmonology Project**
+- Leslie EL
+- Jennifer Imogie
+- Barakat Abubakar
 
 *Remember: When in doubt, always consult a healthcare professional!*
