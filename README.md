@@ -71,6 +71,8 @@ With ML model: "Kid sounds funny when breathing and gets tired easily"
 - Low Confidence (<30%): Requests more specific information
 
 ## How to Use Effectively
+### How to Run
+Try the chatbot live on [Hugging Face Spaces](https://huggingface.co/spaces/imogie/Pediatric_Chatbot)
 
 ### Optimal Input Examples:
 - Good: "My 3-year-old has been wheezing at night and coughs when running around"
@@ -144,12 +146,13 @@ Data gathered from the following data source
 - **Confidence Scoring**: Uncertainty quantification methods
 - **Response Templates**: Structured medical information delivery
 
+
 ## Development Team
 Team 3 - Pediatric Pulmonology Chatbot Project
 - Leslie El
-- Jennifer imogie
+- Jennifer Imogie
 - Barakat Abubakar
 
 ---
 
-**Remember: When in doubt about a child's breathing or respiratory symptoms, always err on the side of caution and seek immediate medical evaluation.**
+
