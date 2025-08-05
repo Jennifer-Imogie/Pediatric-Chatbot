@@ -1,0 +1,13 @@
+# Core ML Libraries
+pandas 
+numpy
+re
+nltk
+nltk.corpus
+stopwords
+spacy
+spacy.training.example
+example
+minibatch
+random
+classification_report
