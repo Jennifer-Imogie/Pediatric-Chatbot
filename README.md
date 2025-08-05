@@ -1,6 +1,5 @@
 ---
 title: Pediatric Pulmonology Chatbot
-emoji: 🫁
 colorFrom: blue
 colorTo: green
 sdk: gradio
