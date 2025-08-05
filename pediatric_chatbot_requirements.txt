@@ -6,6 +6,20 @@ numpy>=1.24.0
 spacy>=3.4.0
 nltk>=3.8
 
+# Core ML Libraries
+pandas 
+numpy
+re
+nltk
+nltk.corpus
+stopwords
+spacy
+spacy.training.example
+example
+minibatch
+random
+classification_report
+
 # Machine Learning (if you want to add the trained model later)
 scikit-learn>=1.2.0
 
